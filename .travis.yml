@@ -4,4 +4,4 @@ python:
     - "3.5"
     - "3.6"
 script:
-    - unittest
+    - python sample_script_tests.py
